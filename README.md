@@ -23,7 +23,7 @@ Se você não está familiarizado com arquivos em Python ou clonagem do GitHub e
 ## Como usar
 1. Clone este repositório para o seu ambiente local.
 2. Instale as dependências necessárias executando o comando: `pip install -r requirements.txt`.
-3. Execute o aplicativo com o comando: `python ImagemParaPDF.py`.
+3. Execute o aplicativo com o comando: `python ImagensParaPDF.py`.
 4. Selecione as imagens desejadas clicando no botão "Selecione as imagens".
 5. Clique no botão "Converter em PDF" para gerar o arquivo PDF.
 6. O arquivo PDF será salvo automaticamente na sua área de trabalho.
