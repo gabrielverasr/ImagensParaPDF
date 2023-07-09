@@ -31,8 +31,5 @@ Se você não está familiarizado com arquivos em Python ou clonagem do GitHub e
 ## Contribuição
 Contribuições são bem-vindas! Se você tiver alguma melhoria, correção de bugs ou novos recursos para adicionar, sinta-se à vontade para enviar um pull request.
 
-## Licença
-Este projeto está licenciado sob a licença [MIT](LICENSE).
-
 ## Contato
 Para mais informações, visite o meu site [www.gabrielveras.art](http://www.gabrielveras.art).
