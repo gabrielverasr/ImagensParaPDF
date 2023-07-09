@@ -13,7 +13,7 @@ O ImagensParaPDF é uma ferramenta simples para converter imagens em formato JPE
 ![image](https://github.com/gabrielverasr/ImagensParaPDF/assets/32417238/98f8122b-34a9-4ea3-ba54-cd9d9a079f79)
 
 ## ⬇️ Download executável Windows
-Se você não está familiarizado com arquivos em Python ou clonagem do GitHub e deseja baixar o arquivo executável (.exe) do projeto, você pode acessar o seguinte link: Download do Executável. Basta clicar no link e fazer o download do arquivo para o seu computador. Em seguida, você poderá executar o aplicativo diretamente, sem precisar se preocupar com a instalação de Python ou outras dependências.
+Se você não está familiarizado com arquivos em Python ou clonagem do GitHub e deseja baixar o arquivo executável (.exe) do projeto, você pode acessar o seguinte link: https://drive.google.com/file/d/1gzkQPOOsieeD3GSILwcBoc3yQlZIV4g1/view?usp=sharing . Basta clicar no link e fazer o download do arquivo para o seu computador. Em seguida, você poderá executar o aplicativo diretamente, sem precisar se preocupar com a instalação de Python ou outras dependências.
 
 ## Pré-requisitos
 - Python 3.x
